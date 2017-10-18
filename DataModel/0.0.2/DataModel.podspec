@@ -38,7 +38,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :http => "http://derrickchao.acsite.org/Frameworks/DataModel-0.0.1.zip", :type => :zip }
+  s.source       = { :http => "http://derrickchao.acsite.org/Frameworks/DataModel-0.0.2.zip", :type => :zip }
   
   s.subspec 'Core' do |ss|
     ss.name = 'Core'
